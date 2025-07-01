@@ -1,0 +1,101 @@
+Date,Area,Avg_Speed_kmph,Congestion_Level,Accidents_Reported,Peak_Hours,Vehicle_Count,Heavy_Vehicles_%,Public_Transport_Usage_%,Weather_Condition
+2024-01-01,Hitech City,36,88,7,Evening,4154,23,21,Foggy
+2024-01-02,Banjara Hills,21,45,8,Morning,1241,39,55,Clear
+2024-01-03,Ameerpet,47,30,5,Night,2896,17,45,Clear
+2024-01-04,Hitech City,43,71,0,Morning,1650,38,79,Foggy
+2024-01-05,Madhapur,34,91,3,Evening,1690,30,39,Clear
+2024-01-06,Madhapur,35,74,7,Night,1725,38,69,Clear
+2024-01-07,Hitech City,49,37,3,Morning,4448,27,79,Clear
+2024-01-08,Banjara Hills,45,57,8,Morning,3713,26,77,Foggy
+2024-01-09,Madhapur,20,88,2,Night,756,23,24,Foggy
+2024-01-10,Ameerpet,37,83,1,Morning,4262,38,61,Foggy
+2024-01-11,Hitech City,22,51,3,Evening,4399,9,64,Rainy
+2024-01-12,Ameerpet,46,95,4,Evening,1315,14,76,Clear
+2024-01-13,Ameerpet,38,64,3,Morning,3875,8,66,Clear
+2024-01-14,Banjara Hills,27,37,2,Night,4765,31,31,Foggy
+2024-01-15,Ameerpet,22,57,3,Morning,2698,13,68,Foggy
+2024-01-16,Hitech City,22,54,4,Morning,2963,37,57,Foggy
+2024-01-17,Madhapur,20,67,3,Morning,3825,22,20,Foggy
+2024-01-18,Madhapur,49,55,0,Evening,1389,35,75,Clear
+2024-01-19,Hitech City,11,41,8,Morning,2446,11,36,Clear
+2024-01-20,Banjara Hills,31,69,9,Morning,4965,8,41,Rainy
+2024-01-21,Banjara Hills,36,55,8,Evening,1811,18,64,Rainy
+2024-01-22,Madhapur,49,78,5,Evening,2575,32,77,Foggy
+2024-01-23,Ameerpet,34,38,6,Night,3529,34,21,Foggy
+2024-01-24,Banjara Hills,14,92,0,Night,1628,31,69,Foggy
+2024-01-25,Madhapur,29,85,4,Evening,3640,6,23,Foggy
+2024-01-26,Banjara Hills,24,30,8,Night,1859,23,65,Rainy
+2024-01-27,Banjara Hills,38,61,7,Evening,4485,37,59,Foggy
+2024-01-28,Madhapur,37,59,0,Morning,621,37,23,Rainy
+2024-01-29,Hitech City,10,74,1,Evening,2631,33,41,Rainy
+2024-01-30,Madhapur,38,70,5,Evening,3599,7,71,Rainy
+2024-01-31,Ameerpet,48,38,0,Night,2188,20,69,Foggy
+2024-02-01,Hitech City,41,66,8,Evening,2569,34,73,Foggy
+2024-02-02,Hitech City,42,71,4,Night,4921,26,36,Foggy
+2024-02-03,Ameerpet,30,84,5,Night,898,23,65,Clear
+2024-02-04,Hitech City,17,34,5,Night,1263,6,44,Clear
+2024-02-05,Hitech City,14,50,5,Night,2095,35,49,Clear
+2024-02-06,Madhapur,31,47,5,Night,3295,6,76,Clear
+2024-02-07,Ameerpet,12,56,6,Evening,2711,35,55,Rainy
+2024-02-08,Banjara Hills,17,81,1,Night,4600,36,70,Rainy
+2024-02-09,Madhapur,45,30,5,Night,1697,21,61,Clear
+2024-02-10,Banjara Hills,47,42,2,Night,3931,25,59,Foggy
+2024-02-11,Madhapur,17,84,1,Night,4197,25,78,Clear
+2024-02-12,Ameerpet,41,84,6,Evening,4855,5,37,Clear
+2024-02-13,Ameerpet,41,84,1,Morning,584,11,41,Rainy
+2024-02-14,Banjara Hills,24,87,8,Night,4831,30,35,Clear
+2024-02-15,Madhapur,29,42,0,Evening,2105,9,38,Clear
+2024-02-16,Banjara Hills,36,56,9,Morning,2129,32,73,Foggy
+2024-02-17,Ameerpet,23,95,6,Morning,2622,23,67,Clear
+2024-02-18,Hitech City,29,33,3,Night,4352,36,55,Foggy
+2024-02-19,Madhapur,45,61,3,Night,3733,31,23,Foggy
+2024-02-20,Hitech City,18,82,0,Morning,2976,21,32,Foggy
+2024-02-21,Madhapur,37,99,9,Evening,4159,12,65,Foggy
+2024-02-22,Ameerpet,37,76,2,Night,4109,6,65,Clear
+2024-02-23,Madhapur,35,43,3,Evening,3550,27,64,Clear
+2024-02-24,Hitech City,28,63,8,Morning,4441,28,64,Clear
+2024-02-25,Banjara Hills,15,55,7,Morning,2095,8,29,Rainy
+2024-02-26,Ameerpet,17,82,5,Morning,2273,8,48,Rainy
+2024-02-27,Ameerpet,10,63,4,Evening,2614,11,73,Foggy
+2024-02-28,Banjara Hills,17,84,8,Morning,3158,7,69,Clear
+2024-02-29,Madhapur,18,95,4,Morning,871,15,69,Clear
+2024-03-01,Hitech City,16,31,3,Night,2843,37,36,Clear
+2024-03-02,Hitech City,36,36,3,Evening,1574,7,28,Clear
+2024-03-03,Hitech City,31,46,1,Morning,4501,13,41,Clear
+2024-03-04,Hitech City,22,38,8,Night,2320,20,46,Clear
+2024-03-05,Madhapur,24,86,1,Night,4515,16,63,Clear
+2024-03-06,Ameerpet,43,90,3,Evening,4140,23,45,Rainy
+2024-03-07,Banjara Hills,42,83,5,Morning,2005,30,54,Clear
+2024-03-08,Ameerpet,14,68,4,Night,3136,11,37,Foggy
+2024-03-09,Madhapur,19,55,9,Night,1455,31,52,Foggy
+2024-03-10,Madhapur,12,67,7,Evening,4964,21,26,Clear
+2024-03-11,Madhapur,31,65,3,Morning,1873,23,42,Clear
+2024-03-12,Hitech City,47,81,9,Night,2090,18,29,Foggy
+2024-03-13,Hitech City,31,76,0,Morning,4129,11,58,Foggy
+2024-03-14,Hitech City,15,69,9,Evening,4136,36,79,Clear
+2024-03-15,Banjara Hills,12,59,7,Evening,4126,30,47,Foggy
+2024-03-16,Banjara Hills,46,30,6,Evening,2597,22,46,Rainy
+2024-03-17,Hitech City,15,60,1,Evening,2891,25,55,Foggy
+2024-03-18,Ameerpet,43,98,9,Morning,3442,25,52,Rainy
+2024-03-19,Hitech City,16,60,0,Evening,2117,36,35,Clear
+2024-03-20,Hitech City,32,59,9,Evening,2548,5,57,Clear
+2024-03-21,Hitech City,15,52,4,Morning,4739,33,32,Foggy
+2024-03-22,Madhapur,31,44,5,Night,968,38,73,Rainy
+2024-03-23,Ameerpet,49,34,1,Morning,3053,35,23,Rainy
+2024-03-24,Hitech City,19,77,0,Evening,3233,5,62,Foggy
+2024-03-25,Banjara Hills,18,96,7,Morning,2124,12,62,Foggy
+2024-03-26,Madhapur,41,90,7,Night,1572,10,43,Foggy
+2024-03-27,Banjara Hills,47,99,4,Evening,3902,34,33,Rainy
+2024-03-28,Hitech City,36,32,5,Evening,3944,23,73,Clear
+2024-03-29,Madhapur,44,31,3,Night,2122,11,37,Clear
+2024-03-30,Banjara Hills,18,36,0,Morning,1387,36,72,Clear
+2024-03-31,Banjara Hills,37,69,3,Morning,825,34,66,Rainy
+2024-04-01,Banjara Hills,33,56,9,Morning,4016,14,43,Clear
+2024-04-02,Ameerpet,19,38,9,Night,2156,18,65,Clear
+2024-04-03,Ameerpet,40,88,7,Night,654,32,53,Clear
+2024-04-04,Madhapur,26,88,9,Morning,1743,19,38,Clear
+2024-04-05,Hitech City,10,87,7,Evening,1102,9,43,Rainy
+2024-04-06,Madhapur,41,77,2,Morning,4727,31,29,Foggy
+2024-04-07,Hitech City,49,66,9,Morning,3466,34,20,Clear
+2024-04-08,Hitech City,15,97,2,Morning,4884,30,27,Clear
+2024-04-09,Banjara Hills,19,83,8,Morning,1990,16,46,Foggy
