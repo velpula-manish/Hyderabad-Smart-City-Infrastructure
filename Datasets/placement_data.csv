@@ -1,0 +1,8 @@
+﻿student_name,roll_number,department,company,salary,placement_date
+John Smith,CS101,Computer Science,TechCorp,60000,10-01-2025
+Jane Doe,CS102,Computer Science,InfoSys,55000,15-01-2025
+Mike Brown,ME201,Mechanical,AutoInc,50000,05-02-2025
+Sarah Lee,CS103,Computer Science,TechCorp,62000,20-02-2025
+Emily Davis,EE301,Electrical,PowerCo,52000,10-03-2025
+Tom Wilson,CS104,Computer Science,InfoSys,58000,15-03-2025
+Lisa Adams,ME202,Mechanical,AutoInc,51000,20-03-2025
